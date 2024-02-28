@@ -35,5 +35,8 @@
   "prettier": {
     "trailingComma": "none",
     "arrowParens": "avoid"
+  },
+  "engines": {
+    "node": "20"
   }
 }
